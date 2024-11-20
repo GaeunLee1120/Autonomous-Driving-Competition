@@ -13,8 +13,10 @@ Due to team project policies, the code and details cannot be made public, but th
 </br></br>
 
 ### ✔ Projects
-> 1. Lane following for GPS shadow zones
-> 2. pickup & delivery
+> 1. [Lane following for GPS shadow zones](https://github.com/GaeunLee1120/Autonomous-Driving-Competition/tree/lane_following)
+> 2. [pickup & delivery]
 > 3. parallel parking </br>
+
+Check other branch please.
 </br>
 </p>
